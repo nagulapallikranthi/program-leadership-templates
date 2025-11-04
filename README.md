@@ -47,7 +47,7 @@ This repository is a growing collection of:
 ## 📬 Connect with Me
 I’m always open to collaborate on Agile transformation, PMO maturity, and AI-driven program insights.  
 
-📎 **LinkedIn:** [linkedin.com/in/kranthi-nagulapally](https://linkedin.com/in/kranthi-nagulapally)  
+📎 **LinkedIn:** [linkedin.com/in/kranthi-n](https://linkedin.com/in/kranthi-n)  
 ✉️ **Email:** nagulapalli.kranthi@gmail.com  
 
 ---
