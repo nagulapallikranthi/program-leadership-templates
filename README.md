@@ -1,56 +1,42 @@
-# 🧭 Program Leadership Templates
+# Program Leadership Templates
 
-This repository showcases my approach to **Agile Program Management, Governance, and Metrics-led Delivery Excellence** — inspired by real transformation programs across CloudOps, DevOps, and SaaS delivery environments.
+A generic portfolio of reusable program-management frameworks for delivery governance, operational reporting, risk management, and stakeholder communication.
 
----
+## Data and confidentiality notice
 
-## 📘 What You’ll Find Here
+This repository contains only generic frameworks, fictional scenarios, and synthetic sample data created for learning and portfolio demonstration.
 
-| Category | Description |
-|-----------|-------------|
-| 🧩 **Templates** | Reusable frameworks for sprint planning, risk management, and stakeholder reporting. |
-| 📊 **Dashboards** | EazyBI / Power BI visualization samples for velocity, predictability, and SLA tracking. |
-| ⚙️ **Jira Automations** | Example scripts and JSONs used to trigger emails, auto-assignments, and sprint notifications. |
-| 🧠 **Playbooks** | Process guides for sprint reliability, Jira project consolidation, and program governance. |
-| 📈 **Reports** | KPI and SLA measurement models used in retros and leadership reporting. |
+It does not contain employer, customer, product, tenant, employee, financial, security, incident, credential, or proprietary organizational information. Any names, metrics, workflows, project keys, screenshots, or operational examples added to this repository must be fictional and clearly labelled as illustrative.
 
----
+See [PORTFOLIO_DATA_POLICY.md](PORTFOLIO_DATA_POLICY.md) before contributing content.
 
-## 🧭 Why This Repository
+## Intended content
 
-Every artifact here reflects my belief that **data tells stories — and stories drive change**.  
-As a Program Manager, my focus is on transforming Agile ceremonies into **data-informed leadership decisions**.
+The repository is being developed to include reusable examples such as:
 
-This repository is a growing collection of:
-- Jira-based metrics and templates  
-- EazyBI and Power BI visual dashboards  
-- SOPs and automation models used for cross-team governance  
+- Program charters and operating models
+- RAID and decision logs
+- Sprint planning and predictability scorecards
+- Dependency and milestone tracking templates
+- Executive status reporting frameworks
+- SLA and service-performance scorecards
+- Generic Jira, EazyBI, and Power BI examples
+- Stakeholder communication templates
 
----
+## Current status
 
-## 🧩 Example Highlights
+This repository is under active development. Items listed above describe the planned portfolio structure and should not be interpreted as completed artifacts unless a corresponding file is present in the repository.
 
-- ✅ **Velocity Dashboard** — Understand trends in delivery stability and predictability.  
-- 🔄 **Project Pulse Framework** — A structured way to track sprint outcomes across multiple teams.  
-- 📬 **Automation Mail Templates** — Sample notifications for sprint progress and blockers.  
+## Design principles
 
----
+Every artifact should be:
 
-## 💡 Future Additions
-- Sprint capacity calculator (Excel + Jira formula)
-- Risk assessment matrix
-- PI planning summary template
-- EazyBI MDX formula samples for sprint metrics
+1. Generic and reusable across organizations.
+2. Based only on fictional or synthetic data.
+3. Clear about its purpose, inputs, outputs, and intended audience.
+4. Free of credentials, endpoints, personal data, internal identifiers, and proprietary operating details.
+5. Accompanied by an example that can be understood without access to any employer system.
 
----
+## Portfolio objective
 
-## 📬 Connect with Me
-I’m always open to collaborate on Agile transformation, PMO maturity, and AI-driven program insights.  
-
-📎 **LinkedIn:** [linkedin.com/in/kranthi-n](https://linkedin.com/in/kranthi-n)  
-✉️ **Email:** nagulapalli.kranthi@gmail.com  
-
----
-
-> “A Program Manager’s impact isn’t in how much they deliver — but in how predictably, sustainably, and insightfully they do it.”  
-> — *Kranthi Kumar Nagulapally*
+The goal is to demonstrate structured program leadership through practical, auditable, and organization-neutral templates rather than reproduce material from any workplace.
